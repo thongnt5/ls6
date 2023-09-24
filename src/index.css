@@ -1,0 +1,14 @@
+input{
+  width: 400px;
+  height: 25px;
+}
+button{
+  background-color: rgb(74, 147, 199);
+  width: 100px;
+  height: 50px;
+  border: none;
+  color: white;
+}
+.error{
+  color: red;
+}
